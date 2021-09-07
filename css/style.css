@@ -1,0 +1,24 @@
+body{
+     /* background-color: rgb(238, 255, 0); */
+}
+
+.logo{
+    color: chartreuse;
+    font-size: 25px;
+    font-weight: 800;
+    text-shadow: 2px 2px 2px black;
+    border-bottom: 2px solid yellow;
+}
+.nav-item{
+    color: black;
+    font-weight: 900;
+   
+}
+.nav-item a:hover{
+    color: #ffff;
+    border-bottom: 2px solid rgb(26, 19, 19);
+    
+}
+.header{
+    background-color:tomato;
+}
