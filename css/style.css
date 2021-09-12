@@ -3,11 +3,10 @@ body{
 }
 
 .logo{
-    color: chartreuse;
+    color:black;
     font-size: 25px;
-    font-weight: 800;
-    text-shadow: 2px 2px 2px black;
-    border-bottom: 2px solid yellow;
+    font-weight: 800; 
+    border-bottom: 2px  solid black;
 }
 .nav-item{
     color: black;
@@ -15,10 +14,10 @@ body{
    
 }
 .nav-item a:hover{
-    color: #ffff;
+    color: tomato;
     border-bottom: 2px solid rgb(26, 19, 19);
     
 }
 .header{
-    background-color:tomato;
+    background-color:#f4f4f4;
 }
